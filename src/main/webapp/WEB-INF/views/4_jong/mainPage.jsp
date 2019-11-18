@@ -27,7 +27,7 @@
     <script type="text/javascript" src="${ pageContext.request.contextPath }/resources/js/4_jong/mobile-menu.js?ver=1"></script>
     <script type="text/javascript" src="${ pageContext.request.contextPath }/resources/js/4_jong/mainBanner.js?ver=1"></script>
 
-	asdasd
+	asdasdcfgh
 
     <style>
     html, body {
